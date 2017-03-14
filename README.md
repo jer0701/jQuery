@@ -1,3 +1,3 @@
 # jQuery
 Practice 
-练习轮播
+练习
